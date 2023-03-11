@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikeonthemike
 - 👀 I’m interested in building stuff and finding better ways to build them
-- 🌱 I’m currently learning as much as possible about building products, but also openAI
+- 🌱 I’m currently learning as much as possible about building products and openAI
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 Reach me on twitter @mikedymikedy
 
